@@ -4,7 +4,7 @@ A supervised-learning study in Python: predict whether a recipe is **Italian** o
 
 > **Status:** completed individual project (final data challenge of an MSc Machine Learning course, Bocconi University, 2026). See [Evaluation note](#evaluation-note) and [Disclaimer](#disclaimer).
 >
-> **Related projects:** [StockTwits attention factor](https://github.com/ceciliaalocicero/stocktwits-attention-factor) · [CAPM tests](https://github.com/ceciliaalocicero/capm-empirical-tests-sp500) · [Markowitz out-of-sample](https://github.com/ceciliaalocicero/markowitz-out-of-sample-test)
+> **Related projects:** [StockTwits attention factor](https://github.com/ceciliaalocicero/stocktwits-sentiment-asset-pricing) · [CAPM tests](https://github.com/ceciliaalocicero/capm-empirical-tests-sp500) · [Markowitz out-of-sample](https://github.com/ceciliaalocicero/markowitz-portfolio-optimization-backtest)
 
 ---
 
