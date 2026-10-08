@@ -93,10 +93,8 @@ recipe-cuisine-classifier/
 ├── notebooks/
 │   └── recipe_cuisine_classification.ipynb   # full analysis, executed top to bottom
 ├── figures/                                  # charts exported from the notebook
-├── data/
-│   └── README.md                             # data description (data not included)
-└── references/
-    └── README.md
+└── data/
+    └── README.md                             # data description (data not included)
 ```
 
 ## Technologies
@@ -130,17 +128,6 @@ pip install -r requirements.txt
 ## Author
 
 **Cecilia Lo Cicero** (individual project).
-
-## References
-
-- James, G., Witten, D., Hastie, T., & Tibshirani, R. (2021). *An Introduction to Statistical Learning* (2nd ed.). Springer.
-- Hastie, T., Tibshirani, R., & Friedman, J. (2009). *The Elements of Statistical Learning* (2nd ed.). Springer.
-- Breiman, L. (2001). Random forests. *Machine Learning*, 45(1), 5–32.
-- Wolpert, D. H. (1992). Stacked generalization. *Neural Networks*, 5(2), 241–259.
-- Chen, T., & Guestrin, C. (2016). XGBoost: A scalable tree boosting system. *KDD '16*, 785–794.
-- Ke, G., et al. (2017). LightGBM: A highly efficient gradient boosting decision tree. *NeurIPS 30*.
-- Ledoit, O., & Wolf, M. (2004). A well-conditioned estimator for large-dimensional covariance matrices. *Journal of Multivariate Analysis*, 88(2), 365–411.
-- Friedman, J. H. (1991). Multivariate adaptive regression splines. *Annals of Statistics*, 19(1), 1–67.
 
 ## Disclaimer
 
