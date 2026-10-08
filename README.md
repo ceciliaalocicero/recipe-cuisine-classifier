@@ -78,7 +78,7 @@ Both are described in the notebook.
 Two kinds of numbers appear in this project, and they are **not comparable**:
 
 - **Cross-validation accuracy** on the 3,200 labelled recipes. This is the main metric here: it is fully reproducible and was used to compare methods.
-- **Course leaderboard errors** (for example 175 for logistic regression, 43 for the final ensemble). These counts are consistently between about one-third and one-half of what the CV error rates imply for 1,734 recipes (about 45% for logistic regression, 175 vs 386; about 32% for the final ensemble, 43 vs 136). That pattern is consistent with the leaderboard scoring only part of the test set. [Confirm: the leaderboard scored N of the 1,734 test recipes.] So leaderboard counts should **not** be read as accuracy on all 1,734 test recipes.
+- **Course leaderboard errors** (for example 175 for logistic regression, 43 for the final ensemble). These counts are consistently between about one-third and one-half of what the CV error rates imply for 1,734 recipes (about 45% for logistic regression, 175 vs 386; about 32% for the final ensemble, 43 vs 136). That pattern is consistent with the leaderboard scoring only part of the test set. So leaderboard counts should **not** be read as accuracy on all 1,734 test recipes.
 
 Several design choices (for example the final ensemble composition) were partly guided by leaderboard feedback, so the leaderboard score is an optimistic estimate of performance on new data. CV accuracy is the more reliable guide.
 
